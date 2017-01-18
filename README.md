@@ -1,6 +1,6 @@
 # eslint-vscode-example
 
-step 1 : clone or download code in path 'https://github.com/vuhoangha/eslint-vscode-example.git' .
+step 1 : clone or download code in path 'https://github.com/vuhoangha/eslint-vscode-example.git' . 
 
 step 2 : run command 'npm install' .
 
